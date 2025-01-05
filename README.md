@@ -58,7 +58,6 @@ python -m venv env
 
 <a name="usage"></a>
 ## Usage
-## Running the Bank Marketing Classification Project
 
 To use this project, follow these steps:
 
